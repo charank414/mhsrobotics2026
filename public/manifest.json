@@ -1,10 +1,10 @@
 {
-  "name": "MHS Robotics",
-  "short_name": "MHS Robotics",
+  "name": "Byte to Bite",
+  "short_name": "Byte to Bite",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#0a0a0a",
+  "background_color": "#12211D",
+  "theme_color": "#12211D",
   "icons": [
     {
       "src": "icon-192.png",
